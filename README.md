@@ -4,6 +4,8 @@
 
 Kindly cite this paper if you are using this code: 
 
+Sajid, M., Deepanshu Gupta, Yash Modi, Sanskriti Jain, Harshith Jai Surya Ganji, A. Rahaman, Harshvardhan Choudhary, Nasir Saleem, Amir Hussain, and M. Tanveer (2025). "AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement, 4th Cogmhear Audio-Visual Speech Enhancement Challenge (AVSEC), Interspeech 2025"
+
 Paper Link: https://doi.org/10.21437/AVSEC.2025-13
 
 Arxiv Link: https://doi.org/10.48550/arXiv.2510.05295
