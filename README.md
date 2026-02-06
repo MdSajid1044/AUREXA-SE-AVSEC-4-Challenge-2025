@@ -1,4 +1,4 @@
-# AVSEC-4-Challenge-2025
+# AVSEC-4-Challenge-2025 - INTERSPEECH 2025
 
 # AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement
 
