@@ -1,4 +1,26 @@
 # AVSEC-4-Challenge-2025
+
+# AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement
+
+Kindly cite this paper if you are using this code: 
+
+Paper Link: https://doi.org/10.21437/AVSEC.2025-13
+
+Arxiv Link: https://doi.org/10.48550/arXiv.2510.05295
+
+BibTex
+------
+```
+@inproceedings{sajid25_avsec,
+  title     = {{AUREXA-SE: Audio-Visual Unified Representation Exchange Architecture with Cross-Attention and Squeezeformer for Speech Enhancement}},
+  author    = {M. Sajid and Deepanshu Gupta and Yash Modi and Sanskriti Jain and Harshith Jai Surya Ganji and A. Rahaman and Harshvardhan Choudhary and Nasir Saleem and Amir Hussain and M Tanveer},
+  year      = {2025},
+  booktitle = {{4th Cogmhear Audio-Visual Speech Enhancement Challenge (AVSEC)}},
+  pages     = {56--61},
+  doi       = {10.21437/AVSEC.2025-13},
+}
+```
+
 ## Requirements
 ..
 You can install all requirements using 
@@ -103,6 +125,8 @@ For further queries, contact us at:
 [Yash Modi](https://github.com/YashModi21) - yashmodi017@gmail.com
 
 [Sanskriti Jain](https://github.com/Sanskriti-hello) - sansjain23.11@gmail.com
+
+[M. Sajid](https://github.com/MdSajid1044) - sajid.mathml@gmail.com
 
 
 
